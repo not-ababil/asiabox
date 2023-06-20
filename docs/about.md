@@ -5,9 +5,9 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Asia Box is a fun PvP box server with four different dimensions to grind and fight in. Each dimension features unique bosses and much more..
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[GitHub]()
 
 
 # Terms of Use
