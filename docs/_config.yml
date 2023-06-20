@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
+serverName: Asia Box
+serverDescription: Asia Box is a fun PvP box server with four different dimensions to grind and fight in. Each dimension features unique bosses and much more.!
 serverIP: 31.41.59.26:5358
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.io/AsiaBox
+discordServerID: 956395715779756043
+discordChannelID: 1114973619290910861
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
